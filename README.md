@@ -8,3 +8,5 @@ Hi. This is my project.
 - Step 1: Download the zip file or use git clone
 
 commit 1
+commit 2 
+new commit 1
