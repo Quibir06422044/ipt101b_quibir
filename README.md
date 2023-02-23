@@ -14,3 +14,4 @@ new commit 2
 
 # New Feature
 - feature 1
+- feature 2
